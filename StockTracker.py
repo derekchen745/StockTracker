@@ -48,7 +48,7 @@ def find_price():
     plt.plot(list_num, price_list, marker ='o')
     plt.title("Daily Change for VFV")
     plt.ylabel('Daily Prices')
-    plt.savefig('StockTracker/VFV.png')
+    plt.savefig(f'StockTracker/VFV {date_str}.png')
 
     writer = pd.ExcelWriter(f'StockTracker/VFV_{date_str}.xlsx', engine='xlsxwriter')
     df = pd.DataFrame(price_list)
