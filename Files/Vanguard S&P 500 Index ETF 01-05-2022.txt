@@ -1,0 +1,10 @@
+01-05-2022 
+Name: Vanguard S&P 500 Index ETF 
+Ticker Symbol: VFV  
+Previous Day Close: $108.09 
+*************************** 
+Current Price: $106.40 
+Daily High: 107.69 
+Daily Low: 106.4 
+Daily Average: 107.04 
+Instances Recorded: 17
