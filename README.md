@@ -3,10 +3,10 @@
 A program that scraped the price of a stock from Google Finance and outputs a variety of information such as:
 
 1. A text file that contains:
-  ** The date the information was gathered 
-  ** The previous closing price of the stock
-  ** The current price of the stock
-  ** The daily highs, lows and average price of the stock
+  a. The date the information was gathered 
+  b. The previous closing price of the stock
+  c. The current price of the stock
+  d. The daily highs, lows and average price of the stock
  
 2. A png file that contains a line graph of the changes in price of the stock throughout the day
 
